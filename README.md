@@ -1,5 +1,6 @@
 # The-Data-Science-Challenge
 Project made during competition organised by Internshala Trainings on Analytics Vidhya.
+This project received the first prize in the competition of Rs.35000
 
 Problem-link: https://datahack.analyticsvidhya.com/contest/internshala-data-science-challenge-2/
 
