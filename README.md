@@ -1,12 +1,15 @@
 # The-Data-Science-Challenge
-Project made during competition organised by Internshala Trainings on Analytics Vidhya.
-This project received the first prize in the competition of Rs.35000
+There was a training program and competition by Internshala Trainings.
 
-Problem-link: https://datahack.analyticsvidhya.com/contest/internshala-data-science-challenge-2/
+This is a Data Science project that was to be made for that training program as well as for the Data Science competition.
 
+## Inspiration
+This project is a part of Internshala Data Science competition.
 
-Project Problem Statement:
+Problem Statement: https://drive.google.com/file/d/16_AE8GsEucPS4XEX007xoVAa-J6_FvFD/view?usp=sharing
 
+## What it does
+### Project Problem Statement:
 Your client is an Insurance company and they need your help in building a model to predict
 whether the policyholder (customer) will pay next premium on time or not.
 
@@ -43,4 +46,29 @@ continue making timely payment.
 Now, in order to predict, whether the customer would pay the next premium or not, you have
 information about past premium payment history for the policyholders along with their
 demographics (age, monthly income, area type) and sourcing channel etc.
+
+
+## How I built it
+I have build this project with the knowledge that I learned during the Internshala Data Science training. 
+
+## Challenges I ran into
+There is a big difference between learning and practical implementation of that learning. As I was building this project, there were many concepts that I had to go-through again. And also, there were many concepts based on the teachings but not directly related. So, covering those portions was a bit challenging for me.
+
+## Accomplishments that I'm proud of
+This project has won the first prize in the competition with the prize amount of Rs.35000. This acheivement is indeed what I am proud of.
+
+LeaderBoard can be seen at:
+
+Competition link: https://datahack.analyticsvidhya.com/contest/internshala-data-science-challenge-2/
+
+
+## What I learned
+Data Science was totally a new field for me to work. But while working on this project, I got a hand-on experience on working on a given data-set, removing outliers, filling null values, training the model and then using it to predict.
+
+## What's next for this project
+As the accuracy is 83.6 for this project, the next step will be to discover new Machine Learning algorithms.
+
+## Built With
+* Python
+* Jupyter Notebook
 
